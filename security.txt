@@ -1,0 +1,7 @@
+Contact: mailto:geekresearch@zohomail.in
+
+Expires: 2027-01-01T00:00:00.000Z
+
+Preferred-Languages: en
+
+Canonical: https://thegeekresearch.github.io/geekresearch/
