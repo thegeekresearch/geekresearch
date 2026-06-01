@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://thegeekresearch.github.io/geekresearch/sitemap.xml
