@@ -1,0 +1,21 @@
+{
+"name":"Geek Research",
+"short_name":"GeekResearch",
+"start_url":"/geekresearch/",
+"display":"standalone",
+"background_color":"#050816",
+"theme_color":"#050816",
+"description":"Digital Marketing, SEO, Advertising and Market Research Agency",
+"icons":[
+{
+"src":"favicon.png",
+"sizes":"192x192",
+"type":"image/png"
+},
+{
+"src":"favicon.png",
+"sizes":"512x512",
+"type":"image/png"
+}
+]
+}
