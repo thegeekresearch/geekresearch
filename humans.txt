@@ -1,0 +1,25 @@
+Company: Geek Research
+
+Founder: Suraj Shrivastav
+
+Email: geekresearch@zohomail.in
+
+Phone: +91 9990418780
+
+Location:
+Aditya World City
+Ghaziabad
+Uttar Pradesh
+India
+
+Services:
+SEO Services
+Google Ads Management
+Meta Advertising
+Lead Generation
+Market Research
+Political Campaign Marketing
+International Marketing
+
+Website:
+https://thegeekresearch.github.io/geekresearch/
